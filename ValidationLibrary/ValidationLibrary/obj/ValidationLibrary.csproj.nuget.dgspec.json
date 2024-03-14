@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\afsha\\Source\\Repos\\JwtValidationLibrary\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj": {}
+    "C:\\Users\\afsha\\Source\\Repos\\TokenValidation\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\afsha\\Source\\Repos\\JwtValidationLibrary\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj": {
+    "C:\\Users\\afsha\\Source\\Repos\\TokenValidation\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\afsha\\Source\\Repos\\JwtValidationLibrary\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\afsha\\Source\\Repos\\TokenValidation\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj",
         "projectName": "ValidationLibrary",
-        "projectPath": "C:\\Users\\afsha\\Source\\Repos\\JwtValidationLibrary\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj",
+        "projectPath": "C:\\Users\\afsha\\Source\\Repos\\TokenValidation\\ValidationLibrary\\ValidationLibrary\\ValidationLibrary.csproj",
         "packagesPath": "C:\\Users\\afsha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\afsha\\Source\\Repos\\JwtValidationLibrary\\ValidationLibrary\\ValidationLibrary\\obj\\",
+        "outputPath": "C:\\Users\\afsha\\Source\\Repos\\TokenValidation\\ValidationLibrary\\ValidationLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
