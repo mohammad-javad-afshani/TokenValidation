@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ValidationLibrary",
+    "\\ValidationLibrary\\jwtValidation.Api",
+    "\\ValidationLibrary\\jwtValidation.Api\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\afsha\\Source\\Repos\\TokenValidation",
+  "SelectedNode": "\\ValidationLibrary\\jwtValidation.Api\\Controllers\\WeatherForecastController.cs",
   "PreviewInSolutionExplorer": false
 }
